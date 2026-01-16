@@ -1,6 +1,6 @@
 # Hi there, I'm Leonardo Pimentel 👋
 
-### Python Backend Engineer | AI & Automation Architect
+### Python Fullstack & AI Engineer | Ex-Sanitation Project Manager (13y of Infrastructure & Consulting) | Founder @Anchor Agents
 
 I am a Software Engineer with a unique background: **13 years in Sanitation & Infrastructure Project Management** turned into **Code Architecture**.
 
